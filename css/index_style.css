@@ -1,0 +1,91 @@
+
+.cover {
+ 
+		
+		 max-width: 100%;
+        max-height: auto;
+        width: 100%;
+        height: auto;
+        min-width: 100px;/*Note the px*/
+        min-height: auto;
+        -webkit-filter: brightness(50%);
+		   
+
+}
+
+ 
+.paint{
+
+	 
+ font-family: inherit;
+	font-weight: 500;
+	line-height: 1.1;
+	color: inherit;
+	 text-align:center;
+	 font-weight: 400;
+	line-height: 1;
+	color: #2c3e50;
+	margin-top: 20px;
+	z-index:1;
+	margin-bottom: 10px;
+	font-size: 65%;
+	font-size: 60px;
+	orphans: 3;
+	widows: 3;
+	
+	page-break-after: avoid;
+   text-shadow: 1px 1px 5px #bdc3c7;
+}
+.homy{
+position: absolute;
+font-family: inherit;
+	font-weight: 500;
+	line-height: 1.1;
+	color: inherit;
+	 text-align:center;
+	 font-weight: 400;
+	line-height: 1;
+	color: white;
+	margin-top: 20px;
+	z-index:1;
+	margin-top: 100%;
+	margin-bottom: 100%;
+	font-size: 65%;
+	font-size: 60px;
+	orphans: 3;
+	widows: 3;
+	
+	page-break-after: avoid;
+   text-shadow: 1px 1px 5px #bdc3c7;
+}
+.cover2 {
+	
+		
+        max-width: 100%;
+        max-height: auto;
+        width: 100%;
+        height: auto;
+        min-width: 100px;/*Note the px*/
+        min-height: auto;
+}
+.content-wrapper {
+    /* These styles are required for the "scroll-over" effect */
+    position: absolute;
+    top: 87%;
+    width: 100%;
+	left:0;
+    min-height: 12%;
+    z-index: 2;
+    background: white;
+
+}
+.footer {
+    background: #111;
+}
+.l-box {
+    padding: 1em;
+}
+.is-center {
+    text-align: center;
+}
+ 

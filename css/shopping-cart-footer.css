@@ -1,0 +1,25 @@
+.footer {
+    background: #111;
+	color:gray;
+}
+.l-box {
+    padding: 1em;
+}
+.is-center {
+    text-align: center;
+}
+
+hr {
+	color:white;
+}
+.paypal{
+	position: relative;
+	
+ 
+    height: 10em;
+   
+ 
+      left: -30%;
+     transform: translate(-55%, -5%)  
+	
+}
